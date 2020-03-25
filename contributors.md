@@ -12,6 +12,6 @@ Of course, feel free to discuss any aspect of this page and this list at our Git
 | Name                       | Topic(s)                                | Curator? | Author? |
 |----------------------------|-----------------------------------------|----------|---------|
 | Gjalt-Jorn Peters          | Health Psychology, stats, methods       |  Yes     | Yes     |
-|                            |                                         |          |         |
+| J-pdbo-C                   |                                         |          |         |
 |                            |                                         |          |         |
 |                            |                                         |          |         |
